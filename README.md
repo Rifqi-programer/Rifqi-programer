@@ -59,7 +59,7 @@ Building full-stack web applications, exploring modern frontend & backend framew
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Rifqi-programer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rifqi's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Rifqi-programer&show_icons=true&theme=tokyonight&hide_border=true" alt="Rifqi's GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifqi-programer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
