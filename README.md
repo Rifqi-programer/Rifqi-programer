@@ -56,17 +56,6 @@ Building full-stack web applications, exploring modern frontend & backend framew
   </tr>
 </table>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Rifqi-programer&show_icons=true&theme=tokyonight&hide_border=true" alt="Rifqi's GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifqi-programer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rifqi-programer/Rifqi-programer/output/galaga-contribution-graph-dark.svg" />
