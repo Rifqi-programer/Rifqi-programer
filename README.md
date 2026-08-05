@@ -48,7 +48,7 @@ Building full-stack web applications, exploring modern frontend & backend framew
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rifqi-programer&theme=tokyonight&hide_border=true" alt="Contribution Streak" width="100%" />
+      <img src="./assets/github-streak.svg?v=2" alt="Contribution Streak" width="100%" />
     </td>
     <td width="50%" align="center">
       <img src="./metrics.plugin.pagespeed.svg?v=2" alt="PageSpeed metrics for rifqi-rpl-student-portfolio.wuaze.com" width="100%" />
@@ -56,10 +56,16 @@ Building full-stack web applications, exploring modern frontend & backend framew
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rifqi-programer&show_icons=true&theme=tokyonight&hide_border=true" alt="Rifqi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifqi-programer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Rifqi-programer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rifqi's GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifqi-programer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <picture>
