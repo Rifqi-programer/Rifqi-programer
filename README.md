@@ -51,7 +51,7 @@ Building full-stack web applications, exploring modern frontend & backend framew
       <img src="./assets/github-streak.svg?v=2" alt="Contribution Streak" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="./metrics.plugin.pagespeed.svg?v=2" alt="PageSpeed metrics for rifqi-rpl-student-portfolio.wuaze.com" width="100%" />
+      <img src="./metrics.plugin.pagespeed.svg?v=3" alt="PageSpeed metrics for rifqi-rpl-student-portfolio.wuaze.com" width="100%" />
     </td>
   </tr>
 </table>
