@@ -1,85 +1,62 @@
-# <img src="./assets/profile-banner.svg" alt="Muhammad Raja Daffa banner" width="100%" />
+# <img src="./assets/profile-banner.svg" alt="Rifqi Aditya Febrian banner" width="100%" />
 
-<!-- <h1 align="center">Muhammad Raja Daffa</h1> -->
 <p align="center">
-  <!-- <strong>Rza</strong><br /> -->
-  ☕ Coding Enthusiast | 🎨 UI/UX | 🚀 SaaS Builder | ⛏️ Minecraft Server Developer
+  ☕ Coding Enthusiast | 🎓 RPL Student @ SMK Negeri 17 Jakarta | ⚡ Web Developer & Software Builder
 </p>
 
 <p align="center">
-  <a href="https://rzadaffa.netlify.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-1E88E5?style=flat-square" alt="Portfolio" /></a>
-  <a href="https://www.tiktok.com/@rzadaffa_"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" /></a>
-  <a href="mailto:muhammadrajadaffa@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
+  <a href="https://rifqi-rpl-student-portfolio.wuaze.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-1E88E5?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://instagram.com/im.rifqii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:rifqijubelas@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
 </p>
 
 ## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React.js-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js_15-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js 15" />
   <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-  <img src="./assets/filament-badge.svg" alt="Filament" />
-  <img src="https://img.shields.io/badge/Vue.js-111827?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt-111827?style=for-the-badge&logo=nuxt&logoColor=00DC82" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/Pinia-111827?style=for-the-badge&logo=pinia&logoColor=FFD859" alt="Pinia" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-  <img src="https://img.shields.io/badge/draw.io-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705" alt="draw.io" />
+  <img src="https://img.shields.io/badge/ASP.NET-111827?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/.NET_MAUI-111827?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt=".NET MAUI" />
+  <img src="https://img.shields.io/badge/SSMS-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC292B" alt="Microsoft SQL Server" />
   <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=22C55E" alt="REST API" />
-  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
-  <img src="https://img.shields.io/badge/k6-111827?style=for-the-badge&logo=k6&logoColor=7D64FF" alt="k6" />
+  <img src="https://img.shields.io/badge/Lua-111827?style=for-the-badge&logo=lua&logoColor=000080" alt="Lua" />
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Railway-111827?style=for-the-badge&logo=railway&logoColor=FFFFFF" alt="Railway" />
 </p>
 
-### Minecraft Server Development
+### Specialization & Core Focus
 
 <p align="center">
-  <img src="./assets/minecraft-server-badge.svg" alt="Minecraft Server Administration" />
-  <img src="https://img.shields.io/badge/Server_Scripting-111827?style=for-the-badge&logo=gnubash&logoColor=E6F7FF" alt="Server Scripting" />
-  <img src="./assets/plugin-configuration-badge.svg" alt="Plugin Configuration" />
-  <img src="https://img.shields.io/badge/Server_Customization-111827?style=for-the-badge&logo=craftcms&logoColor=F59E0B" alt="Server Customization" />
-  <img src="https://img.shields.io/badge/YAML-111827?style=for-the-badge&logo=yaml&logoColor=FF6B6B" alt="YAML" />
-  <img src="https://img.shields.io/badge/Skript-111827?style=for-the-badge&logo=script&logoColor=67E8F9" alt="Skript" />
-  <img src="https://img.shields.io/badge/Spigot-111827?style=for-the-badge&logo=spigotmc&logoColor=F4A261" alt="Spigot" />
-  <img src="./assets/papermc-badge.svg" alt="PaperMC" />
+  <img src="https://img.shields.io/badge/Web_Development-111827?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=22C55E" alt="REST API" />
+  <img src="https://img.shields.io/badge/Database_Design-111827?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="Database Design" />
+  <img src="https://img.shields.io/badge/UI/UX_Precision-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="UI/UX Precision" />
 </p>
 
 ## Currently Building
 
-Building SaaS products, full stack applications, and internal tools with a focus on reliability and practical value.
-
-## Cybersecurity Fundamentals
-
-<p align="center">
-  🐉 Kali Linux | 🌐 Network Security | 📶 Wireless Security | 🔍 Vulnerability Assessment | 📡 Network Monitoring
-</p>
+Building full-stack web applications, exploring modern frontend & backend frameworks, and crafting high-performance, clean software solutions with a focus on usability and technical excellence.
 
 ## GitHub Statistics
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rifqi-programer&theme=tokyonight&hide_border=true" alt="Contribution Streak" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for rzadaffa.netlify.app" width="100%" />
+      <img src="./metrics.plugin.pagespeed.svg" alt="PageSpeed metrics for rifqi-rpl-student-portfolio.wuaze.com" width="100%" />
     </td>
   </tr>
 </table>
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph" width="100%" />
-  </picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rifqi-programer&show_icons=true&theme=tokyonight&hide_border=true" alt="Rifqi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifqi-programer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
