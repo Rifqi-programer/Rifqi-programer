@@ -1,4 +1,4 @@
-# <img src="./assets/profile-banner.svg" alt="Rifqi Aditya Febrian banner" width="100%" />
+# <img src="./assets/profile-banner.svg?v=2" alt="Rifqi Aditya Febrian banner" width="100%" />
 
 <p align="center">
   ☕ Coding Enthusiast | 🎓 RPL Student @ SMK Negeri 17 Jakarta | ⚡ Web Developer & Software Builder
@@ -51,7 +51,7 @@ Building full-stack web applications, exploring modern frontend & backend framew
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rifqi-programer&theme=tokyonight&hide_border=true" alt="Contribution Streak" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="./metrics.plugin.pagespeed.svg" alt="PageSpeed metrics for rifqi-rpl-student-portfolio.wuaze.com" width="100%" />
+      <img src="./metrics.plugin.pagespeed.svg?v=2" alt="PageSpeed metrics for rifqi-rpl-student-portfolio.wuaze.com" width="100%" />
     </td>
   </tr>
 </table>
@@ -59,4 +59,12 @@ Building full-stack web applications, exploring modern frontend & backend framew
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rifqi-programer&show_icons=true&theme=tokyonight&hide_border=true" alt="Rifqi's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifqi-programer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rifqi-programer/Rifqi-programer/output/galaga-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rifqi-programer/Rifqi-programer/output/galaga-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Rifqi-programer/Rifqi-programer/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph" width="100%" />
+  </picture>
 </p>
